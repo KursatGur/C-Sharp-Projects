@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\bin\Debug\XmlProjesi.exe.config
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\bin\Debug\XmlProjesi.exe
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\bin\Debug\XmlProjesi.pdb
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\obj\Debug\XmlProjesi.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\obj\Debug\XmlProjesi.Form1.resources
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\obj\Debug\XmlProjesi.Properties.Resources.resources
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\obj\Debug\XmlProjesi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\obj\Debug\XmlProjesi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\obj\Debug\XmlProjesi.exe
+C:\Users\asus\source\repos\XmlProjesi\XmlProjesi\obj\Debug\XmlProjesi.pdb
