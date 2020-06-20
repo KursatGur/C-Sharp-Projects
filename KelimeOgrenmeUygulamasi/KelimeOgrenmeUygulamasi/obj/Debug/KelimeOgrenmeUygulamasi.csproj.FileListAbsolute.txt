@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\bin\Debug\KelimeOgrenmeUygulamasi.exe.config
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\bin\Debug\KelimeOgrenmeUygulamasi.exe
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\bin\Debug\KelimeOgrenmeUygulamasi.pdb
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.Form1.resources
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.Form2.resources
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.Properties.Resources.resources
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.exe
+C:\Users\asus\source\repos\KelimeOgrenmeUygulamasi\KelimeOgrenmeUygulamasi\obj\Debug\KelimeOgrenmeUygulamasi.pdb
